@@ -1,0 +1,95 @@
+[22:13:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:13:32] [ServerMain/INFO]: Loaded 7 recipes
+[22:13:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:13:32] [Server thread/INFO]: Loading properties
+[22:13:32] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[22:13:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:13:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:13:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[22:13:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:13:34] [Server thread/INFO]: Default game type: SURVIVAL
+[22:13:34] [Server thread/INFO]: Generating keypair
+[22:13:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:13:34] [Server thread/INFO]: Using epoll channel type
+[22:13:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:13:34] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[22:13:34] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[22:13:34] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[22:13:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:13:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:13:35] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:13:35] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:13:36] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[22:13:37] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[22:13:37] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[22:13:37] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:13:37] [Server thread/INFO]: [floodgate] Took 712ms to boot Floodgate
+[22:13:37] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.9
+[22:13:37] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[22:13:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:13:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:13:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:13:38] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.9
+[22:13:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:13:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:13:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:13:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:13:38] [Server thread/INFO]: Preparing level "world"
+[22:13:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:13:39] [Server thread/INFO]: Time elapsed: 240 ms
+[22:13:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:13:39] [Server thread/INFO]: Time elapsed: 70 ms
+[22:13:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:13:39] [Server thread/INFO]: Time elapsed: 42 ms
+[22:13:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[22:13:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[22:13:39] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[22:13:39] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[22:13:40] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[22:13:41] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:13:41] [Server thread/INFO]: [Geyser-Spigot] 
+[22:13:41] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b904 (git-master-ea967a0)
+[22:13:41] [Server thread/INFO]: [Geyser-Spigot] 
+[22:13:41] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:13:46] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[22:13:46] [Server thread/INFO]: [Geyser-Spigot] Done (4.415s)! Run /geyser help for help!
+[22:13:46] [Server thread/INFO]: Running delayed init tasks
+[22:13:46] [Server thread/INFO]: Done (13.805s)! For help, type "help"
+[22:13:46] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:13:46] [Server thread/INFO]: Timings Reset
+[22:13:52] [User Authenticator #0/INFO]: UUID of player mathias6222 is a8d255f9-a4ae-33b8-9ce6-df889b35d459
+[22:13:52] [Server thread/INFO]: mathias6222 joined the game
+[22:13:52] [Server thread/INFO]: mathias6222[/127.95.101.181:46185] logged in with entity id 4999 at ([world]-776.6947212404659, 66.0, -219.60115271813157)
+[22:14:34] [User Authenticator #0/INFO]: UUID of player Zairac74509 is 71728cdf-b055-3a89-85ee-2e83a7ed91c8
+[22:14:34] [Server thread/INFO]: Zairac74509 joined the game
+[22:14:34] [Server thread/INFO]: Zairac74509[/127.212.253.29:53197] logged in with entity id 33757 at ([world]-0.5, 64.0, 5.5)
+[22:15:03] [Server thread/INFO]: Zairac74509 lost connection: Disconnected
+[22:15:03] [Server thread/INFO]: Zairac74509 left the game
+[22:16:18] [User Authenticator #1/INFO]: UUID of player Zairac74509 is 71728cdf-b055-3a89-85ee-2e83a7ed91c8
+[22:16:18] [Server thread/INFO]: Zairac74509 joined the game
+[22:16:18] [Server thread/INFO]: Zairac74509[/127.212.253.29:49133] logged in with entity id 106602 at ([world]-2.926700711936078, 66.0, -3.607040770439151)
+[22:17:17] [Server thread/INFO]: mathias6222 issued server command: /tp Zairac74509 mathias6222
+[22:17:17] [Server thread/INFO]: [mathias6222: Teleported Zairac74509 to mathias6222]
+[22:23:41] [Server thread/INFO]: Zairac74509 has made the advancement [Diamonds!]
+[22:24:50] [Server thread/INFO]: Zairac74509 has made the advancement [Cover Me with Diamonds]
+[22:29:37] [Server thread/INFO]: Zairac74509 has reached the goal [Sky's the Limit]
+[22:31:32] [Server thread/INFO]: Zairac74509 lost connection: Disconnected
+[22:31:32] [Server thread/INFO]: Zairac74509 left the game
+[22:31:55] [Async Chat Thread - #1/INFO]: [Not Secure] <mathias6222> -2112 -288
+[22:35:03] [User Authenticator #2/INFO]: UUID of player Zairac74509 is 71728cdf-b055-3a89-85ee-2e83a7ed91c8
+[22:35:03] [Server thread/INFO]: Zairac74509 joined the game
+[22:35:03] [Server thread/INFO]: Zairac74509[/127.68.32.67:40777] logged in with entity id 887933 at ([world]-724.951736662936, 66.0, 85.6098264381302)
+[22:39:35] [Server thread/INFO]: Zairac74509 has made the advancement [Acquire Hardware]
+[22:42:12] [Server thread/INFO]: Zairac74509 has made the advancement [We Need to Go Deeper]
+[22:42:59] [Server thread/INFO]: Zairac74509 has made the advancement [A Terrible Fortress]
+[22:43:16] [Async Chat Thread - #2/INFO]: [Not Secure] <mathias6222> -263 -36
+[22:44:32] [Async Chat Thread - #4/INFO]: [Not Secure] <Zairac74509> xaero-waypoint:allá:A:-263:128:-36:2:false:0:Internal-the-nether-waypoints
+[22:51:08] [Server thread/INFO]: Zairac74509 has reached the goal [Postmortal]
+[22:52:34] [Server thread/INFO]: Zairac74509 lost connection: Disconnected
+[22:52:34] [Server thread/INFO]: Zairac74509 left the game
+[22:52:37] [User Authenticator #3/INFO]: UUID of player Zairac74509 is 71728cdf-b055-3a89-85ee-2e83a7ed91c8
+[22:52:37] [Server thread/INFO]: Zairac74509 joined the game
+[22:52:37] [Server thread/INFO]: Zairac74509[/127.68.32.67:33613] logged in with entity id 1602649 at ([world]-2109.4003254608087, 65.0, -273.2807199728985)
+[22:52:59] [Server thread/INFO]: Zairac74509 has made the advancement [Stone Age]
